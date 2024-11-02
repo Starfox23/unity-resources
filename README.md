@@ -1,1 +1,1 @@
-# unity-resources
+This is a resource git for Unity labs.
